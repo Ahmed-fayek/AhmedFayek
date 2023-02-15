@@ -1,0 +1,72 @@
+.fayek-info {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.fayek-info .b-info {
+    background-color: rgb(160, 240, 240);
+    width: 450px;
+    margin: 20px 0 20px 20px;
+    padding: 15px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.fayek-info .b-info .my-resume {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fayek-info .b-info ul li {
+    list-style-type: none;
+    margin: 30px;
+
+}
+
+
+.fayek-info .b-info ul li h3 {
+    margin-left: 15px;
+    margin-top: 5px;
+    line-height: 32px;
+
+}
+
+.fayek-info .education {
+    background-color: rgb(160, 240, 240);
+    width: 750px;
+    margin: 20px 0 20px 0;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.fayek-info .education .container {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.fayek-info .education .container h4 {
+    font-size: 35px;
+
+}
+
+.fayek-info .education .container p {
+    margin-left: 15px;
+    margin-top: 5px;
+    line-height: 32px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
