@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Ahmed-Fayek/static/css/main.9d772ca6.css",
-    "main.js": "/Ahmed-Fayek/static/js/main.d221c806.js",
-    "static/media/fa-solid-900.ttf": "/Ahmed-Fayek/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
-    "static/media/myimage.jpg": "/Ahmed-Fayek/static/media/myimage.4bb75d300f5cc7528389.jpg",
-    "static/media/fa-brands-400.ttf": "/Ahmed-Fayek/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
-    "static/media/fa-solid-900.woff2": "/Ahmed-Fayek/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
-    "static/media/fa-brands-400.woff2": "/Ahmed-Fayek/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
-    "static/media/fa-regular-400.ttf": "/Ahmed-Fayek/static/media/fa-regular-400.146404900f7550a9719d.ttf",
-    "static/media/image2.jpeg": "/Ahmed-Fayek/static/media/image2.32287e35abf4dab44542.jpeg",
-    "static/media/footer_lodyas.png": "/Ahmed-Fayek/static/media/footer_lodyas.be8d2259c09a3d1fe461.png",
-    "static/media/fa-regular-400.woff2": "/Ahmed-Fayek/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
-    "static/media/fa-v4compatibility.ttf": "/Ahmed-Fayek/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Ahmed-Fayek/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
-    "index.html": "/Ahmed-Fayek/index.html",
-    "main.9d772ca6.css.map": "/Ahmed-Fayek/static/css/main.9d772ca6.css.map",
-    "main.d221c806.js.map": "/Ahmed-Fayek/static/js/main.d221c806.js.map"
+    "main.css": "/AhmedFayek/static/css/main.b87515bc.css",
+    "main.js": "/AhmedFayek/static/js/main.d221c806.js",
+    "static/media/fa-solid-900.ttf": "/AhmedFayek/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/myimage.jpg": "/AhmedFayek/static/media/myimage.4bb75d300f5cc7528389.jpg",
+    "static/media/fa-brands-400.ttf": "/AhmedFayek/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/AhmedFayek/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/AhmedFayek/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/AhmedFayek/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/image2.jpeg": "/AhmedFayek/static/media/image2.32287e35abf4dab44542.jpeg",
+    "static/media/footer_lodyas.png": "/AhmedFayek/static/media/footer_lodyas.be8d2259c09a3d1fe461.png",
+    "static/media/fa-regular-400.woff2": "/AhmedFayek/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/AhmedFayek/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/AhmedFayek/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/AhmedFayek/index.html",
+    "main.b87515bc.css.map": "/AhmedFayek/static/css/main.b87515bc.css.map",
+    "main.d221c806.js.map": "/AhmedFayek/static/js/main.d221c806.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d772ca6.css",
+    "static/css/main.b87515bc.css",
     "static/js/main.d221c806.js"
   ]
 }
